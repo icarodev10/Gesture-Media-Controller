@@ -1,0 +1,19 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- Windows & Sistema ---
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- MediaPipe/Logs (se houver) ---
+*.log
