@@ -6,6 +6,12 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange?style=for-the-badge)
 
+
+
+https://github.com/user-attachments/assets/0391297c-a833-4fe2-b5da-5741262adb75
+
+
+
 ## 💡 About The Project
 
 **Gesture Media Controller** creates a futuristic, touch-free interface for your PC. By leveraging **MediaPipe** for hand tracking and **OpenCV** for visual processing, this script interprets hand landmarks to interact with the Windows OS in real-time.
